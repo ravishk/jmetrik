@@ -5,6 +5,8 @@ jMetrik is a free and open source computer program for psychometric analysis. It
 
 jMetrik’s embedded database increases productivity by providing a common data format for all of its methods. There is no need to reformat or reshape data for each procedure. The database is the primary mechanism for data management. There is virtually no limit to the sample size or number of tables that can be stored in the database. Users are only limited by the amount of storage on their computer. After importing data into jMetrik, users can create subsets of data by selecting examinees or variables. Users can also create new tables by saving the results of an analysis in the database for further processing.
 
+The compiled jMetrik application can be downloaded from http://www.ItemAnalysis.com. 
+
 jMetrik involves a variety of dependencies including Apache Derby, Apache Commons Math, jFreeChart, and the psychometrics library.
 
 
